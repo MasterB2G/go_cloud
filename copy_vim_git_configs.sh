@@ -1,5 +1,5 @@
-cp ./_gitconfig         ~/.gitconfig
-cp ./_gitignore         ~/.gitignore
-cp ./_vimrc             ~/.vimrc
+cp ./configfiles/_gitconfig         ~/.gitconfig
+cp ./configfiles/_gitignore         ~/.gitignore
+cp ./configfiles/_vimrc             ~/.vimrc
 
 #git diff --no-index ./_vimrc ~/.vimrc
